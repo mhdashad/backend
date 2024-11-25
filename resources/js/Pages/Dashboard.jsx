@@ -1,8 +1,7 @@
-export default function  Home(){
+export default function Dashboard(){
     return(
         <>
            <h1>Hello World</h1>
-           <h1>Hi Guys</h1>
         </>
     );
 }
